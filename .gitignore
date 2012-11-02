@@ -1,0 +1,14 @@
+*.class
+.svn
+
+# Package Files #
+*.jar
+*.ear
+*.war
+
+# /seqware-queryengine-legacy/
+.classpath
+.project
+.settings
+target
+
